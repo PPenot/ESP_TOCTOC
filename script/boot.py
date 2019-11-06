@@ -1,5 +1,5 @@
-WIFI_SSID = "WIFI SSID"
-WIFI_PASSWORD = "WIFI PASSWORD"
+WIFI_SSID = "Freebox-PC-2G"
+WIFI_PASSWORD = "pauletcamille"
 
 def sta_connect( timeout = None, disable_ap = False ):
     import network, time
